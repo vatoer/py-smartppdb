@@ -1,0 +1,19 @@
+level 0 
+
+https://dapo.kemdikbud.go.id/rekap/dataPD?id_level_wilayah=0&kode_wilayah=000000&semester_id=20232
+
+level 1 
+
+https://dapo.kemdikbud.go.id/rekap/dataPD?id_level_wilayah=1&kode_wilayah=050000&semester_id=20232
+
+level 2 
+
+https://dapo.kemdikbud.go.id/rekap/dataPD?id_level_wilayah=2&kode_wilayah=050700&semester_id=20232
+
+level 3 
+
+https://dapo.kemdikbud.go.id/rekap/progresSP?id_level_wilayah=3&kode_wilayah=050725&semester_id=20232
+
+detil sekolah
+
+https://dapo.kemdikbud.go.id/rekap/sekolahDetail?semester_id=20232&sekolah_id=E4EF26D2C3B6DE5DF15A
