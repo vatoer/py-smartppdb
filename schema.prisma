@@ -1,0 +1,10 @@
+model wilayah {
+  kode_wilayah                  String    @id @unique
+  nama                          String
+  id_level_wilayah              Int
+  mst_kode_wilayah              Int
+  induk_provinsi                String?
+  kode_wilayah_induk_provinsi   String?
+  induk_kabupaten               String?
+  kode_wilayah_induk_kabupaten  String?
+}
